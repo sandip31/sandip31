@@ -4,7 +4,7 @@
 **sandip31/sandip31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🚀 **AWS Certified Solutions Architect** with over 8 years of experience building and managing scalable, secure, and cost-effective cloud infrastructure. I specialize in:  
+🚀 **Cloud Solutions Architect** with over 8 years of experience building and managing scalable, secure, and cost-effective cloud infrastructure. I specialize in:  
 - 🌩️ **Cloud Migration Strategies**  
 - 🔧 **Serverless Architecture Designing**  
 - 🔄 **DevOps Automation and CI/CD Pipelines**  
